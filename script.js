@@ -4,7 +4,6 @@ const countryPhoneInput = document.getElementById('sign-in-phone-number')
  countryNameInput.value = 'Russian Federation'
 countryPhoneInput.value = '+7 '
 
-console.log(countryInputContainer)
 
 function toggleMenu() {
     const countryMenu = document.querySelector('.bubble')
